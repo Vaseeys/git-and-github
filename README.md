@@ -7,7 +7,7 @@ By following the tutorial:Git tutorials for Dummies by [Nick white](https://yout
 ----
   1.git init - initialize a new repository <br>
   2.git add filename - for saving changes  <br>
-    git add . - commit changes to all files 
+    git add . - commit changes to all files <br>
   3.git commit -m 'description' - for making changes and updating it to git  <br>
   4.git log - shows the log of recent activities <br>
   5.git checkout logaddress - for reviewing the past changes <br>
