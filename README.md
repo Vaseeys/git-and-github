@@ -23,5 +23,5 @@ By following the tutorial:Git tutorials for Dummies by [Nick white](https://yout
   15.git branch - shows all the branch from a repository <br>
   16.git checkout -b filename - redirects the working branch <br>
 ---
-##Thank you ! ## 
+### Thank you !! 
 [My linkedin](https://www.linkedin.com/in/a-vaseekaran-2b5149369-blue)
